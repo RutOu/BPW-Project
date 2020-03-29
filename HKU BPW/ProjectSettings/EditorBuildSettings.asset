@@ -4,5 +4,11 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/AbyssMenu.unity
+    guid: 678dc7883df26524ab5756f01d0db895
+  - enabled: 1
+    path: Assets/Scenes/AbyssLevel.unity
+    guid: 86a2a5a07f1bb1849aebb25c97882b4c
   m_configObjects: {}
